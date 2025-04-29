@@ -1,0 +1,12 @@
+[project]
+name = "searce-demo-poc"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "langchain-community>=0.3.23",
+    "langchain>=0.3.24",
+    "openai>=1.76.0",
+    "rich>=14.0.0",
+]
