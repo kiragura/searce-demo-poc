@@ -9,4 +9,5 @@ dependencies = [
     "langchain>=0.3.24",
     "openai>=1.76.0",
     "rich>=14.0.0",
+    "streamlit>=1.45.0",
 ]
